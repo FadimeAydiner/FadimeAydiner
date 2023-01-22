@@ -49,8 +49,7 @@
         <hr>
         <div>
             <h3 class="head">Stuff I worked on last week </h3>
-           <a href="https://wakatime.com"><img src="https://wakatime.com/share/@162b893b-a133-4c2c-a6a3-5fd2cdfcaa04/73df40db-5f4f-4bcd-88db-77ff3f194c01.png" /></a>
-      </div>
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@162b893b-a133-4c2c-a6a3-5fd2cdfcaa04/6ce74e93-ebfa-476b-b903-a1c80ce525cd.png" /></a> </div>
         <hr>
         <div>
             <div>
