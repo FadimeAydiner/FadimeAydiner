@@ -25,7 +25,7 @@
                         Since graduated from university and started working as a computer teacher I have been training on various platforms so that my knowledge is always up to date. 
                         I also start Computer Enginnering Education at Istanbul Cerrahpasa University in 2021. 
                         I've been living in Texas USA since the half of 2022. 
-                        I work actively a full stack Java developer in a company.
+                        I work on a java/Spring Boot project now.
                     </p></td>
                 </tr>
                 <tr>
@@ -37,7 +37,7 @@
                         Üniversiteden mezun olduktan ve öğretmen olarak çalışmaya başladıktan sonra bilişim teknolojilerinin birçok alanında eğitimler almaya devam ettim ve sürekli kendimi geliştirdim.
                         Ayrıca 2021 yılında İstanbul Cerrahpaşa Üniversitesi Bilgisayar Mühendisliği Bölümüne başladım.
                         2022 yılının ortalarından beri Amerika'nın Teksas Eyaletinde yaşamaktayım. 
-                        Full Stack Java Developer olarak bir şirkette aktif olarak çalışmaktayım.
+                        Şu an bir Spring Boot projesi üzerinde çalışmaktayım.
                     </p></td>
                 </tr>
             </table>
