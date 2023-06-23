@@ -23,9 +23,8 @@
                         I graduated from Marmara University with my degree in Computer and Control Systems Teaching in 2012.
                         Until August 2022 I worked as a computer teacher in various high schools in Turkey.                                     
                         Since graduated from university and started working as a computer teacher I have been training on various platforms so that my knowledge is always up to date. 
-                        I also start Computer Enginnering Education at Istanbul Cerrahpasa University in 2021. 
-                        I've been living in Texas USA since the half of 2022. 
-                        I work on a java/Spring Boot project now.
+                        I graduated from Istanbul University with my degree in Computer Engineering in 2023.
+                        I am working on java projects since 2022.
                     </p></td>
                 </tr>
                 <tr>
