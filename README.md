@@ -11,8 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Java+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
         <div id="about">
-            <table id="tbl_about">
-            
+            <table id="tbl_about">            
                 <tr>
                    <td></p>
                         Hello, my name is Fadime Aydiner. 
@@ -22,8 +21,7 @@
                         I graduated from Istanbul University with my degree in Computer Engineering in 2023.
                         I am working on java projects since 2022.
                     </p></td>
-                </tr>
-                
+                </tr>                
             </table>
         </div>
         <hr>
