@@ -17,8 +17,7 @@
                     <th>About Me</th>
                 </tr>
                 <tr>
-                    <td class="image"><img class="language"src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png"></td>
-                    <td><p>
+                   
                         Hello, my name is Fadime Aydiner. 
                         I graduated from Marmara University with my degree in Computer and Control Systems Teaching in 2012.
                         Until August 2022 I worked as a computer teacher in various high schools in Turkey.                                     
@@ -27,18 +26,7 @@
                         I am working on java projects since 2022.
                     </p></td>
                 </tr>
-                <tr>
-                    <td class="image"><img class="language"src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"></td>
-                    <td><p>
-                        Merhaba, ben Fadime Aydiner. 
-                        Marmara Üniversitesi Bilgisayar ve Kontrol Öğretmenliği Bölümünden 2012 yılında mezun oldum.
-                        Ağustos 2022 tarihine kadar Türkiye'de çeşitli meslek liselerinde Bilişim Teknolojileri Öğretmeni ve Atölye Şefi olarak çalıştım.                                    
-                        Üniversiteden mezun olduktan ve öğretmen olarak çalışmaya başladıktan sonra bilişim teknolojilerinin birçok alanında eğitimler almaya devam ettim ve sürekli kendimi geliştirdim.
-                        Ayrıca 2021 yılında İstanbul Cerrahpaşa Üniversitesi Bilgisayar Mühendisliği Bölümüne başladım.
-                        2022 yılının ortalarından beri Amerika'nın Teksas Eyaletinde yaşamaktayım. 
-                        Şu an bir Spring Boot projesi üzerinde çalışmaktayım.
-                    </p></td>
-                </tr>
+                
             </table>
         </div>
         <hr>
