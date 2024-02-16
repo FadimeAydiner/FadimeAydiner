@@ -12,12 +12,9 @@
 </p>
         <div id="about">
             <table id="tbl_about">
+            
                 <tr>
-                    <th>Language</th>
-                    <th>About Me</th>
-                </tr>
-                <tr>
-                   
+                   <td></p>
                         Hello, my name is Fadime Aydiner. 
                         I graduated from Marmara University with my degree in Computer and Control Systems Teaching in 2012.
                         Until August 2022 I worked as a computer teacher in various high schools in Turkey.                                     
