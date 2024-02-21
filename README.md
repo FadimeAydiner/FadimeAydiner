@@ -8,7 +8,7 @@
 <body>
     <div id="content">
        <p aling="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Java+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
         <div id="about">
             <table id="tbl_about">            
