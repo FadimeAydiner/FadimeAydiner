@@ -19,7 +19,7 @@
                         Until August 2022 I worked as a computer teacher in various high schools in Turkey.                                     
                         Since graduated from university and started working as a computer teacher I have been training on various platforms so that my knowledge is always up to date. 
                         I graduated from Istanbul University with my degree in Computer Engineering in 2023.
-                        I am working on java projects since 2022.
+                        I am working on React Native Projects with Typescipt.
                     </p></td>
                 </tr>                
             </table>
